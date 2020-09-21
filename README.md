@@ -11,6 +11,20 @@ I wanted to have an overview of the Twitter community opinion behind each langua
 
 An interesting point I can conclude from this little exercise is that people think that both R and Python are easy (although the word "difficult" was twitted twice as much as "easy" for Python tweets and it didn't pop up in the top words for R!).
 
+**Top sentiments for Python**
+
+![Sentiment Python](/figures/sentiment_python.png)
+
+**Top sentiments for R**
+
+![Sentiment R](/figures/sentiment_r.png)
+
+| **Word cloud of top Tweets for Python** | **Word cloud of top Tweets for R** |
+|-----------------------------------------|-----------------------------------|
+|![Word Could Python](/figures/wordcloud_python.png) | ![Word Could R](/figures/wordcloud_r.png) |
+
+
+
 
 <p>&nbsp;</p>
 
@@ -119,8 +133,7 @@ cloud_r
 
 ```
 
-![Word Could Python](/figures/wordcloud_python.png)
-![Word Could R](/figures/wordcloud_r.png)
+
 
 
 <p>&nbsp;</p>
@@ -182,5 +195,4 @@ bing_r %>%
 
 ```
 
-![Sentiment Python](/figures/sentiment_python.png)
-![Sentiment R](/figures/sentiment_r.png)
+
